@@ -1,0 +1,11 @@
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\bin\Debug\netcoreapp2.0\TaxiFarePredictor.deps.json
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\bin\Debug\netcoreapp2.0\TaxiFarePredictor.runtimeconfig.json
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\bin\Debug\netcoreapp2.0\TaxiFarePredictor.runtimeconfig.dev.json
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\bin\Debug\netcoreapp2.0\TaxiFarePredictor.dll
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\obj\Debug\netcoreapp2.0\TaxiFarePredictor.csprojAssemblyReference.cache
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\obj\Debug\netcoreapp2.0\TaxiFarePredictor.csproj.CoreCompileInputs.cache
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\obj\Debug\netcoreapp2.0\TaxiFarePredictor.AssemblyInfoInputs.cache
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\obj\Debug\netcoreapp2.0\TaxiFarePredictor.AssemblyInfo.cs
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\bin\Debug\netcoreapp2.0\TaxiFarePredictor.pdb
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\obj\Debug\netcoreapp2.0\TaxiFarePredictor.dll
+C:\experiment\MLDotNet\MLDotNetSample\TaxiFarePredictor\obj\Debug\netcoreapp2.0\TaxiFarePredictor.pdb

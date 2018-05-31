@@ -1,0 +1,11 @@
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\bin\Debug\netcoreapp2.0\IrisClassifier.deps.json
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\bin\Debug\netcoreapp2.0\IrisClassifier.runtimeconfig.json
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\bin\Debug\netcoreapp2.0\IrisClassifier.runtimeconfig.dev.json
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\bin\Debug\netcoreapp2.0\IrisClassifier.dll
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\obj\Debug\netcoreapp2.0\IrisClassifier.csproj.CoreCompileInputs.cache
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\obj\Debug\netcoreapp2.0\IrisClassifier.AssemblyInfoInputs.cache
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\obj\Debug\netcoreapp2.0\IrisClassifier.AssemblyInfo.cs
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\bin\Debug\netcoreapp2.0\IrisClassifier.pdb
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\obj\Debug\netcoreapp2.0\IrisClassifier.csprojAssemblyReference.cache
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\obj\Debug\netcoreapp2.0\IrisClassifier.dll
+C:\experiment\MLDotNet\MLDotNetSample\IrisClassifier\obj\Debug\netcoreapp2.0\IrisClassifier.pdb
